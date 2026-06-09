@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <rect width="64" height="64" rx="12" fill="#13161e"/>
+  <text x="8" y="46" font-family="Georgia, serif" font-size="36" font-weight="700" fill="#8fb8a8">&lt;</text>
+  <text x="24" y="46" font-family="Georgia, serif" font-size="24" font-weight="700" fill="#e8e6e0">LCC</text>
+  <text x="50" y="46" font-family="Georgia, serif" font-size="18" font-weight="700" fill="#a89bc8">/&gt;</text>
+</svg>
