@@ -7,7 +7,7 @@ const links = [
   {
     icon: Mail,
     label: 'Email',
-    value: 'your-email@example.com',
+    value: 'aryabarsodae@gmail.com',
     href: `mailto:${contactInfo.email}`,
     accent: 'text-accent-coral',
     border: 'hover:border-accent-coral/40',
@@ -25,7 +25,7 @@ const links = [
   {
     icon: Linkedin,
     label: 'LinkedIn',
-    value: 'your-username',
+    value: 'aryabarsode',
     href: contactInfo.linkedin,
     accent: 'text-accent-lavender',
     border: 'hover:border-accent-lavender/40',

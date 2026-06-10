@@ -39,7 +39,7 @@ export default function AboutSection() {
               className="space-y-4 text-text-secondary font-sans text-base leading-relaxed"
             >
 <p>
-  I'm a B.Tech Computer Science (AI) student at VIT Pune with a 9.14 CGPA, 
+  I'm Arya Barsode, pursuing B.Tech Computer Science (AI) at VIT Pune with a 9.14 CGPA, 
   building AI applications using Python, local LLMs, and generative AI workflows. 
   I specialise in RAG systems, local LLM deployment, and AI-powered developer tooling.
 </p>
