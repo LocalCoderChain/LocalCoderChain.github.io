@@ -9,30 +9,28 @@
 import type { Publication } from '@/types';
 
 export const publications: Publication[] = [
-  // ─── TEMPLATE ─────────────────────────────────────────────────────────────
-  // {
-  //   id: 'my-paper-2024',
-  //   title: 'My Research Paper Title',
-  //   conference: 'Conference Name or Journal',
-  //   year: 2024,
-  //   abstract: 'Full abstract text here...',
-  //   pdfLink: '/publications/my-paper.pdf',
-  //   doiLink: 'https://doi.org/10.xxxx/xxxxx',
-  //   authors: ['Author One', 'Author Two'],
-  //   tags: ['RAG', 'NLP', 'LLM'],
-  // },
-
-  // ─── Example Entry ────────────────────────────────────────────────────────
   {
-    id: 'local-rag-survey-2024',
-    title: 'A Survey of Local Retrieval-Augmented Generation Systems for Privacy-Sensitive Domains',
-    conference: 'Workshop on Efficient Natural Language & Speech Technology (EffNLP)',
-    year: 2024,
+    id: 'vision-beyond-sight-2025',
+    title: 'Vision Beyond Sight: AI-Powered Assistive Technology for the Visually Impaired',
+    conference: 'ICAMMAIA — AIP Conference Proceedings',
+    year: 2025,
     abstract:
-      'Retrieval-Augmented Generation (RAG) has emerged as a dominant paradigm for grounding large language model outputs in factual knowledge. However, most RAG implementations depend on cloud-hosted APIs, creating significant privacy concerns for regulated industries such as healthcare, legal, and engineering. In this survey, we systematically review approaches for implementing fully local RAG pipelines, evaluate trade-offs between embedding models, vector stores, and inference backends, and propose a taxonomy of deployment configurations. We identify key gaps in the literature around evaluation benchmarks for local RAG and outline directions for future work.',
-    pdfLink: '/publications/local-rag-survey.pdf',
+      'This paper presents an AI-powered assistive system designed to enhance independence and accessibility for visually impaired individuals. The system leverages computer vision, natural language processing, and audio feedback to interpret and describe the visual environment in real time, enabling users to navigate and interact with their surroundings more effectively.',
+    pdfLink: undefined,
     doiLink: undefined,
-    authors: ['LocalCoderChain'],
-    tags: ['RAG', 'LLM', 'Privacy', 'Survey', 'Local AI'],
+    authors: ['Arya Barsode'],
+    tags: ['Computer Vision', 'Assistive Technology', 'NLP', 'AI'],
+  },
+  {
+    id: 'satya-ledger-2026',
+    title: 'Satya Ledger: A Blockchain-Based Decentralised Digital Receipt Framework for Government Financial Transactions',
+    conference: 'ICAMMAIA 2026 — Publication in Progress',
+    year: 2026,
+    abstract:
+      'Satya Ledger proposes a decentralised digital receipt framework built on blockchain technology to bring transparency, immutability, and auditability to government financial transactions. The system addresses challenges of receipt tampering, financial fraud, and lack of accountability in public sector spending.',
+    pdfLink: undefined,
+    doiLink: undefined,
+    authors: ['Arya Barsode'],
+    tags: ['Blockchain', 'Government Tech', 'Decentralisation', 'FinTech'],
   },
 ];

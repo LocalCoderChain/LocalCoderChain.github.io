@@ -4,8 +4,8 @@
 import type { ContactInfo } from '@/types';
 
 export const contactInfo: ContactInfo = {
-  email: 'your-email@example.com',         // ← Replace
-  github: 'https://github.com/LocalCoderChain', // ← Replace if needed
-  linkedin: 'https://linkedin.com/in/your-username', // ← Replace
-  resumeURL: '/resume/resume.pdf',          // ← Add your PDF to public/resume/
+  email: 'aryabarsodae@gmail.com',
+  github: 'https://github.com/LocalCoderChain',
+  linkedin: 'https://linkedin.com/in/aryabarsode',
+  resumeURL: '/resume/resume.pdf',
 };

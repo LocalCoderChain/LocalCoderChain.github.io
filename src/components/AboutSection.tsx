@@ -38,20 +38,21 @@ export default function AboutSection() {
               transition={{ duration: 0.5, delay: 0.16 }}
               className="space-y-4 text-text-secondary font-sans text-base leading-relaxed"
             >
-              <p>
-                I'm a software engineer and AI practitioner focused on building systems that are practical, 
-                grounded, and actually useful. I specialize in retrieval-augmented generation, local LLM 
-                deployment, and building developer tooling for working with AI.
-              </p>
-              <p>
-                My interest is in the full stack — from embedding models and vector databases to React 
-                frontends and REST APIs. I care about building things that work well, are maintainable, 
-                and can be understood and modified by other engineers.
-              </p>
-              <p>
-                When I'm not building, I'm reading research papers, contributing to open-source projects, 
-                and exploring what AI can do when it runs entirely on local hardware.
-              </p>
+<p>
+  I'm a B.Tech Computer Science (AI) student at VIT Pune with a 9.14 CGPA, 
+  building AI applications using Python, local LLMs, and generative AI workflows. 
+  I specialise in RAG systems, local LLM deployment, and AI-powered developer tooling.
+</p>
+<p>
+  My projects span industrial carbon analytics, fisheries AI assistants, 
+  code analysis tools, and engineering document search - all with a focus on 
+  practical, privacy-preserving systems that work in real environments.
+</p>
+<p>
+  I've published research at ICAMMAIA on AI assistive technology and blockchain 
+  frameworks. Currently seeking internship and full-time roles in AI engineering 
+  and software development.
+</p>
             </motion.div>
 
             <motion.div
